@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArtGallery</string>
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+</resources>
